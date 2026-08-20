@@ -148,8 +148,9 @@ This project is licensed under the **Apache License 2.0** - see the LICENSE file
 
 ## 👤 Author
 
-**Nayon09**  
-GitHub: 
+Estiak Ahmed Moral
+  
+GitHub: https://github.com/estiakahmedmoral
 
 ---
 

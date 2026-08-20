@@ -52,7 +52,7 @@ Lung-cancer-detection-using-different-transfer-learning-model/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Nayon09/Lung-cancer-detection-using-different-transfer-learning-model.git
+git clone https://github.com/estiakahmedmoral/Lung-cancer-detection-using-different-transfer-learning-model.git
 cd Lung-cancer-detection-using-different-transfer-learning-model
 ```
 
